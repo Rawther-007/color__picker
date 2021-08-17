@@ -1,10 +1,10 @@
-function makeRed(){
+function makeViolet(){
     document.body.style.backgroundColor="violet";
 }
-function makeBlue(){
+function makeAzure(){
     document.body.style.backgroundColor="azure";
 }
-function makeGreen(){
+function makeBrown(){
     document.body.style.backgroundColor ="brown";
 }
 function makeOrange(){
