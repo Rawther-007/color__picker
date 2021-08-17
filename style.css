@@ -18,13 +18,13 @@ button:hover{
   opacity: 0.8;
 }
 #btn_red{
-     background-color: red;
+     background-color: violet;
 }
 #btn_blue{
-     background-color: blue;
+     background-color: black;
 }
 #btn_green{
-     background-color: green;
+     background-color: brown;
 }
 #btn_orange{
      background-color: orange;
