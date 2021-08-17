@@ -1,8 +1,8 @@
 function makeViolet(){
     document.body.style.backgroundColor="violet";
 }
-function makeAzure(){
-    document.body.style.backgroundColor="azure";
+function makeBlue(){
+    document.body.style.backgroundColor="blue";
 }
 function makeBrown(){
     document.body.style.backgroundColor ="brown";
