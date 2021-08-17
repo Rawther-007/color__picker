@@ -1,11 +1,11 @@
 function makeRed(){
-    document.body.style.backgroundColor="red";
+    document.body.style.backgroundColor="violet";
 }
 function makeBlue(){
-    document.body.style.backgroundColor="blue";
+    document.body.style.backgroundColor="black";
 }
 function makeGreen(){
-    document.body.style.backgroundColor ="green";
+    document.body.style.backgroundColor ="brown";
 }
 function makeOrange(){
     document.body.style.backgroundColor = "orange";
