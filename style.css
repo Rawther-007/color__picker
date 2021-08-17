@@ -17,13 +17,13 @@ button:hover{
   cursor: pointer;
   opacity: 0.8;
 }
-#btn_red{
+#btn_violet{
      background-color: violet;
 }
-#btn_blue{
-     background-color: black;
+#btn_azure{
+     background-color: azure;
 }
-#btn_green{
+#btn_brown{
      background-color: brown;
 }
 #btn_orange{
